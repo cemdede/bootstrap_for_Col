@@ -14,7 +14,9 @@ A nested while-loop is used to generate multiple synthetic MRNs from each origin
 
 **Bootstrap Sampling:**
 For each CSV file under the current MRN, bootstrapping is performed. 
-Bootstrapping here means that the code creates a synthetic dataset by sampling with replacement from the original dataset.
+Bootstrapping here means that the code creates a synthetic dataset by sampling with a replacement from the original dataset.
 
 **Saving Synthetic Data**:
 The synthetic data is saved as a new CSV file in the corresponding synthetic MRN folder.
+
+Expected amount of patients is **100000**.
