@@ -1,5 +1,5 @@
-# bootstrap_for_Col
-
+# Bootstrap Sampling for Collective Effort
+ 
 
 Important:
 The original data was already anonymized.
@@ -19,4 +19,4 @@ Bootstrapping here means that the code creates a synthetic dataset by sampling w
 **Saving Synthetic Data**:
 The synthetic data is saved as a new CSV file in the corresponding synthetic MRN folder.
 
-Expected amount of patients is **100000**.
+The expected amount of patients is **100000**.
