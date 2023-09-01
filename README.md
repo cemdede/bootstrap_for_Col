@@ -3,7 +3,26 @@
 
 Important:
 The original data was already anonymized.
+The expected amount of patients is **10000**
 
+**Data input**:
+
+input folder path
+  |
+  |
+  | __ MRN__*.csv
+  | __ MRN__*.csv
+
+
+**Data Ouput**: 
+
+output folder path
+  |
+  |
+  | __ MRN__*.csv
+  | __ MRN__*.csv
+
+  
 For each anonymized MRN folder, CSV files were present in the folder.
 CSV Files include CT onRail H&N RX Treatment accumulated dose fraction.
 
@@ -19,4 +38,4 @@ Bootstrapping here means that the code creates a synthetic dataset by sampling w
 **Saving Synthetic Data**:
 The synthetic data is saved as a new CSV file in the corresponding synthetic MRN folder.
 
-The expected amount of patients is **100000**.
+.
