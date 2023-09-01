@@ -8,19 +8,27 @@ The expected amount of patients is **10000**
 **Data input**:
 
 input folder path
-  |
-  |
-  | __ MRN__*.csv
-  | __ MRN__*.csv
+  
+         |
+  
+         |
+  
+         | __ MRN__*.csv
+  
+         | __ MRN__*.csv
 
 
 **Data Ouput**: 
 
 output folder path
-  |
-  |
-  | __ MRN__*.csv
-  | __ MRN__*.csv
+  
+        |
+  
+        |
+
+        | __ MRN__*.csv
+  
+        | __ MRN__*.csv
 
   
 For each anonymized MRN folder, CSV files were present in the folder.
